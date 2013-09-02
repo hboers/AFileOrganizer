@@ -1,0 +1,7 @@
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Entities\bin\Release\Entities.dll.config
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Entities\bin\Release\Entities.dll
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Entities\bin\Release\Entities.pdb
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Entities\bin\Release\EntityFramework.dll
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Entities\bin\Release\EntityFramework.xml
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Entities\obj\Release\Entities.dll
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Entities\obj\Release\Entities.pdb

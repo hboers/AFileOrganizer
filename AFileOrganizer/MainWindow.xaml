@@ -1,0 +1,54 @@
+﻿<Window x:Class="AFileOrganizer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="Imgs/Icono.ico"
+        Title="AFileOrganizer 1.0 -  Options" Height="248" Width="224" 
+        WindowStartupLocation="CenterScreen" Closing="Window_Closing" StateChanged="Window_StateChanged">
+    <Grid>
+       
+        <!--Begin of rowdefinitions-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+    
+        </Grid.RowDefinitions>
+        <!--End of rowdefinitions-->
+        
+        <Button x:Name="btnAssociation"
+                Grid.Row="0"
+                Content="New Association"
+                FontFamily="Times New Roman"
+                FontSize="15"
+                FontWeight="SemiBold"
+                Foreground="Green"
+                Background="White"
+                BorderBrush="Green"
+                BorderThickness="0.6" Click="btnAssociation_Click"
+                />
+
+        <Button x:Name="btnObserver"
+                Grid.Row="1"
+                Content="Folder"
+                FontFamily="Times New Roman"
+                FontSize="15"
+                FontWeight="SemiBold"
+                Foreground="Green"
+                Background="White"
+                BorderBrush="Green"
+                BorderThickness="0.6" Click="btnObserver_Click"
+                />
+
+        <Button x:Name="btnStart"
+                Grid.Row="2"
+                Content="Start"
+                FontFamily="Times New Roman"
+                FontSize="15"
+                FontWeight="SemiBold"
+                Foreground="Green"
+                Background="White"
+                BorderBrush="Green"
+                BorderThickness="0.6" Click="btnStart_Click"
+                />
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+c:\users\jefri\documents\visual studio 2012\Projects\AFileOrganizer\Business\bin\Debug\Business.dll.config
+c:\users\jefri\documents\visual studio 2012\Projects\AFileOrganizer\Business\bin\Debug\Business.dll
+c:\users\jefri\documents\visual studio 2012\Projects\AFileOrganizer\Business\bin\Debug\Business.pdb
+c:\users\jefri\documents\visual studio 2012\Projects\AFileOrganizer\Business\bin\Debug\Data.dll
+c:\users\jefri\documents\visual studio 2012\Projects\AFileOrganizer\Business\bin\Debug\Entities.dll
+c:\users\jefri\documents\visual studio 2012\Projects\AFileOrganizer\Business\bin\Debug\EntityFramework.dll
+c:\users\jefri\documents\visual studio 2012\Projects\AFileOrganizer\Business\bin\Debug\Data.pdb
+c:\users\jefri\documents\visual studio 2012\Projects\AFileOrganizer\Business\bin\Debug\Entities.pdb
+c:\users\jefri\documents\visual studio 2012\Projects\AFileOrganizer\Business\bin\Debug\EntityFramework.xml
+c:\users\jefri\documents\visual studio 2012\Projects\AFileOrganizer\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+c:\users\jefri\documents\visual studio 2012\Projects\AFileOrganizer\Business\obj\Debug\Business.dll
+c:\users\jefri\documents\visual studio 2012\Projects\AFileOrganizer\Business\obj\Debug\Business.pdb

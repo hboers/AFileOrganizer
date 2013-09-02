@@ -1,0 +1,10 @@
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Data\bin\Release\Data.dll.config
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Data\bin\Release\Data.dll
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Data\bin\Release\Data.pdb
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Data\bin\Release\Entities.dll
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Data\bin\Release\EntityFramework.dll
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Data\bin\Release\Entities.pdb
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Data\bin\Release\EntityFramework.xml
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Data\obj\Release\Data.dll
+C:\Users\Jefri\documents\visual studio 2012\Projects\AFileOrganizer\Data\obj\Release\Data.pdb
