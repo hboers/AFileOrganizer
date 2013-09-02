@@ -50,7 +50,9 @@ namespace AFileOrganizer
                 //End of notifyIcon Section.
                 
                 _bfilesHandler = new BFilesHandler();
-                thread = new Thread(new ThreadStart(_bfilesHandler.Begin));
+                 thread = new Thread(new ThreadStart(_bfilesHandler.Begin));
+                 this.thread.Start();
+                 btnStart.Content = "Running";
         }
 
         //This event will handle the double click event on the notificationIcon when It is in the system tray.
@@ -72,20 +74,10 @@ namespace AFileOrganizer
             _folderMananger.ShowDialog();
         }
 
-        private void btnStart_Click(object sender, RoutedEventArgs e)
-        {
-            if (btnStart.Content.ToString().Equals("Start"))
-            {
-                this.thread.Start();
-                btnStart.Content = "Running";
-            }
-        }
-
         private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
             this.thread.Abort();
         }
-
 
 
         private void Window_StateChanged(object sender, EventArgs e)

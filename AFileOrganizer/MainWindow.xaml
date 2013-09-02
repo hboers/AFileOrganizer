@@ -48,7 +48,7 @@
                 Foreground="Green"
                 Background="White"
                 BorderBrush="Green"
-                BorderThickness="0.6" Click="btnStart_Click"
+                BorderThickness="0.6"
                 />
     </Grid>
 </Window>
