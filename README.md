@@ -16,7 +16,7 @@ It is pretty simple, once you have started the application, you wll see a window
   2. Folders.
   3. Status , It is running.
   
-![ScreenShot](https://github.com/jefridev/AFileOrganizer/blob/master/screenshots/Main.jpg)
+![ScreenShot](https://raw.github.com/jefridev/AFileOrganizer/blob/master/screenshots/Main.jpg)
 
 
 New Associations.
@@ -26,11 +26,11 @@ In this one you will have to add the rules for files, let's say you want all fil
 
 First you will see this window and then you will have to do click on the add button.
 
-![ScreenShot](https://github.com/jefridev/AFileOrganizer/blob/master/screenshots/Associations.jpg)
+![ScreenShot](https://raw.github.com/jefridev/AFileOrganizer/blob/master/screenshots/Associations.jpg)
 
 Then a new window is going to be open, here is where you will add the info example.
 
-![ScreenShot](https://github.com/jefridev/AFileOrganizer/blob/master/screenshots/AddingAssociation.jpg)
+![ScreenShot](https://raw.github.com/jefridev/AFileOrganizer/blob/master/screenshots/AddingAssociation.jpg)
 
 Once I have completed the fields I add it and that's it. That rule is going to be applied to all the files with that extension in the monitered folder.
 
@@ -39,7 +39,7 @@ Monited Folders.
 
 Here is where you will add all folders where you want to apply the rules you added.
 
-![ScreenShot](https://github.com/jefridev/AFileOrganizer/blob/master/screenshots/Folders.jpg)
+![ScreenShot](https://raw.github.com/jefridev/AFileOrganizer/blob/master/screenshots/Folders.jpg)
 
 
 How do I install it ?
