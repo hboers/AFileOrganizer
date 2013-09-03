@@ -44,10 +44,15 @@ Here is where you will add all folders where you want to apply the rules you add
 
 How do I install it ?
 =====================
-In order to install this application you will need:
 
-1. Net Framework 4.5
-2. LocalDB.
+If you want to install this software there is an installer that you will make it easy. 
+
+Windows 64bits (x64)
+http://www.mediafire.com/download/s4yc19hoobzotc1/AFileOrganizerx64.exe
+
+Windows 32bits (x86)
+http://www.mediafire.com/download/6m7fm3d53f625j5/AFileOrganizerx86.exe
+
 
 Due to we are using .Net Framework 4.5 This appication is only compatible with:
 
