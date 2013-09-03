@@ -16,7 +16,7 @@ It is pretty simple, once you have started the application, you wll see a window
   2. Folders.
   3. Status , It is running.
   
-![ScreenShot](https://raw.github.com/jefridev/AFileOrganizer/blob/master/screenshots/Main.jpg)
+![Main Window](https://raw.github.com/jefridev/AFileOrganizer/master/screenshots/Main.jpg)
 
 
 New Associations.
@@ -26,24 +26,24 @@ In this one you will have to add the rules for files, let's say you want all fil
 
 First you will see this window and then you will have to do click on the add button.
 
-![Associations Window](https://raw.github.com/jefridev/AFileOrganizer/blob/master/screenshots/Associations.jpg)
+![Associations Window](https://raw.github.com/jefridev/AFileOrganizer/master/screenshots/Associations.jpg)
 
 Then a new window is going to be open, here is where you will add the info example.
 
-![Adding Association](https://raw.github.com/jefridev/AFileOrganizer/blob/master/screenshots/AddingAssociation.jpg)
+![Adding Association](https://raw.github.com/jefridev/AFileOrganizer/master/screenshots/addingAssociation.jpg)
 
 Once I have completed the fields I add it and that's it. That rule is going to be applied to all the files with that extension in the monitered folder.
 
-Monited Folders.
+Monitored Folders.
 ----------------
 
 Here is where you will add all folders where you want to apply the rules you added.
 
-![Adding folder to be monitored](https://raw.github.com/jefridev/AFileOrganizer/blob/master/screenshots/Folders.jpg)
+![Adding folder to be monitored](https://raw.github.com/jefridev/AFileOrganizer/master/screenshots/Folders.jpg)
 
 
 How do I install it ?
-
+=====================
 In order to install this application you will need:
 
 1. Net Framework 4.5
